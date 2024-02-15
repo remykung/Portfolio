@@ -37,10 +37,10 @@ const projectList = [
     url: "https://github.com/remykung/BrewChatApp",
   },
   {
-    title: "React App - TODO List",
+    title: "Angular App - Shopping List",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/remykung/To-do-list",
+      "Maximize your shopping efficiency with our Angular-powered Shopping List app. Designed for simplicity and ease of use, our application helps you create and manage grocery lists effortlessly.",
+    url: "https://to-do-list-angular-azure.vercel.app/",
   },
   {
     title: "Open Source Contribution",
@@ -61,7 +61,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Markdown and deployed to GitHub pages. Includes my experience and design abilities. Click to know more about me.",
-    url: "https://remykung.github.io/",
+    url: "https://remykung.github.io/SW",
   }
   
 ];
